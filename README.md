@@ -1,13 +1,4 @@
-
-
-<p align="center">
-  <samp>
-    C:\Users\Admin&gt; whoami<br>
-    tolga_esendere
-  </samp>
-</p>
-
-
+<h1 align="center"><strong>Tolga Esendere</strong></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=86A4B6&center=true&vCenter=true&width=600&lines=Vibe+Coding;Web+Developer;Game+Developer" alt="Vibe Coding - Web Developer - Game Developer" />
