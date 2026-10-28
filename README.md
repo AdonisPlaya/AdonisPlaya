@@ -1,8 +1,12 @@
 
-<h1 align="center">TOLGA ESENDERE</h1>
+
 <p align="center">
-  <code>developer.init()</code>
+  <samp>
+    C:\Users\Admin&gt; whoami<br>
+    tolga_esendere
+  </samp>
 </p>
+
 
 
 <p align="center">
