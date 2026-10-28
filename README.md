@@ -48,7 +48,7 @@
   <a href="https://www.unrealengine.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="52" height="52"/></a>
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img
