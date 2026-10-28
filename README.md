@@ -10,49 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=86A4B6&height=1&section=header&width=100%" width="100%" alt="" />
 </p>
 
-<table width="320" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td bgcolor="#111820" style="padding:14px; border-radius:14px;">
-      <table width="100%" border="0" cellpadding="0" cellspacing="0">
-        <tr>
-          <td width="64" valign="top">
-            <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">
-              <img
-                src="https://coverartarchive.org/release/470a26c5-8684-44c9-bf9d-8eb48285009a/40538090738-500.jpg"
-                width="58"
-                alt="Album cover"
-              />
-            </a>
-          </td>
-          <td valign="middle">
-            <strong>LET THE WORLD BURN</strong>
-            <br/>
-            <sub>Chris Grey</sub>
-          </td>
-        </tr>
-      </table>
 
-      <br/>
-
-      <p align="center">
-        <sub>STARTING AT 00:44</sub>
-      </p>
-
-      <p align="center">
-        <code>▂ ▄ ▆ ▃ ▇ ▅ ▂ ▆ ▄ ▇ ▃ ▅</code>
-      </p>
-
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">
-          <img
-            src="https://img.shields.io/badge/▶_PLAY-86A4B6?style=for-the-badge"
-            alt="Play song"
-          />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Views-6.595k-86a4b6?style=flat-square" alt="Views: 6.595k" />
