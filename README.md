@@ -12,49 +12,65 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
-      <table width="100%" border="0" cellpadding="14"
-        cellspacing="0" bgcolor="#101720">
+    <td bgcolor="#111820" style="border-radius:18px; padding:22px;">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
         <tr>
-          <td>
-            <table width="100%" border="0" cellpadding="0"
-              cellspacing="0">
-              <tr>
-                <td width="120" valign="middle">
-                  <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">
-                    <img
-                      src="https://coverartarchive.org/release/470a26c5-8684-44c9-bf9d-8eb48285009a/40538090738-500.jpg"
-                      width="110"
-                      alt="LET THE WORLD BURN cover"
-                    />
-                  </a>
-                </td>
-                <td valign="middle">
-                  <sub><b>FEATURED TRACK</b></sub>
-                  <br/><br/>
-                  <strong>LET THE WORLD BURN</strong>
-                  <br/>
-                  <sub>Chris Grey</sub>
-                  <br/><br/>
-                  <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">
-                    <img
-                      src="https://img.shields.io/badge/▶_LISTEN_NOW-86A4B6?style=for-the-badge&logo=youtube&logoColor=101720"
-                      alt="Listen on YouTube"
-                    />
-                  </a>
-                </td>
-              </tr>
-            </table>
+          <td width="150" valign="top">
+            <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">
+              <img
+                src="https://coverartarchive.org/release/470a26c5-8684-44c9-bf9d-8eb48285009a/40538090738-500.jpg"
+                width="132"
+                alt="Chris Grey - LET THE WORLD BURN"
+              />
+            </a>
+          </td>
+          <td valign="middle">
+            <sub>NOW PLAYING</sub>
+            <br/><br/>
+            <strong>LET THE WORLD BURN</strong>
             <br/>
-            <p align="center">
-              <code>▂ ▅ ▃ ▆ ▄ ▇ ▃ ▅ ▂ ▆ ▄ ▅ ▃ ▇ ▂ ▅ ▄ ▆</code>
-            </p>
-            <p align="center">
-              <sub>NOW PLAYING · ADONISPLAYA</sub>
-            </p>
+            <sub>Chris Grey</sub>
+            <br/><br/>
+            <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">
+              <img
+                src="https://img.shields.io/badge/▶_PLAY_TRACK-86A4B6?style=for-the-badge&logoColor=white"
+                alt="Play track"
+              />
+            </a>
           </td>
         </tr>
       </table>
+
+      <br/>
+
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>
+            <sub>00:44</sub>
+          </td>
+          <td align="right">
+            <sub>LET THE WORLD BURN</sub>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <img
+              src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-86A4B6?style=flat-square"
+              width="100%"
+              height="5"
+              alt="Track progress decoration"
+            />
+          </td>
+        </tr>
+      </table>
+
+      <p align="center">
+        <code>▂ ▄ ▆ ▃ ▇ ▅ ▂ ▆ ▄ ▇ ▃ ▅ ▂ ▄ ▆ ▇ ▃ ▅</code>
+      </p>
+
+      <p align="center">
+        <sub>ADONISPLAYA · PERSONAL PLAYLIST</sub>
+      </p>
     </td>
   </tr>
 </table>
