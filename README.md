@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/Views-6.595k-86a4b6?style=flat-square" alt="Views: 6.595k" />
 </p>
 
-<h3 align="left">Add Me:</h3>
+<h3 align="center">Add Me:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/tolgaaesendere" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-original.svg" alt="Arduino" width="52" height="52"/></a>
   <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="52" height="52"/></a>
   <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azure/azure-original.svg" alt="Azure" width="52" height="52"/></a>
