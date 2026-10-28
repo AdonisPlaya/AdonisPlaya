@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tolga Esendere</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=86A4B6&center=true&vCenter=true&width=600&lines=Python+Developer;Vibe+Coder;Game+Developer;Web+Developer;Building+things+for+fun" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=86A4B6&center=true&vCenter=true&width=600&lines=Vibe+Coding;Web+Developer;Game+Developer" alt="Vibe Coding - Web Developer - Game Developer" />
 </p>
+
 
 
 <p align="left">
