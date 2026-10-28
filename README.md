@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tolga Esendere</h1>
 <h3 align="center">A part-time developer in Türkiye who does "vibe coding" whenever they get bored.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adonisplaya&label=Views&color=86a4b6&style=flat-square" alt="adonisplaya" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Views-6.595k-86a4b6?style=flat-square" alt="Views: 6.595k" />
+</p>
 
 
 <p align="left">
