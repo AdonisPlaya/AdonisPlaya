@@ -5,7 +5,7 @@
 
 - My guns.lol [https://guns.lol/tolgaesendere](https://guns.lol/tolgaesendere)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Add Me:</h3>
 <p align="left">
 <a href="https://instagram.com/tolgaaesendere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tolgaaesendere" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1246057026908328013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="31" height="30" width="40" /></a>
