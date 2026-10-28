@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adonisplaya&label=Views&color=86a4b6&style=flat-square" alt="adonisplaya" /> </p>
 
-- My guns.lol [https://guns.lol/tolgaesendere](https://guns.lol/tolgaesendere)
+
+<p align="left">
+  <a href="https://guns.lol/tolgaesendere" target="_blank">
+    <img src="https://img.itch.zone/aW1nLzE2MTA5NjY0LnBuZw==/original/QyPDxO.png" alt="Tolga's guns.lol" width="100" />
+  </a>
+</p>
+
 
 <h3 align="left">Add Me:</h3>
 <p align="left">
