@@ -18,8 +18,8 @@
       </a>
     </td>
     <td>
-      **LET THE WORLD BURN**<br/>
-      Chris Grey<br/>
+      LET THE WORLD BURN<br/>
+      𝘊𝘩𝘳𝘪𝘴 𝘎𝘳𝘦𝘺<br/>
       <sub>00:44 · </sub>
       <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">▶ Play</a>
     </td>
