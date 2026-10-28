@@ -67,11 +67,11 @@
     <td colspan="2" align="center">
       <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">
         <img
-          src="https://img.shields.io/badge/%E2%96%B6-86A4B6?style=for-the-badge&logoColor=white"
-          alt="Play song"
-          height="36"
-        />
-      </a>
+        src="https://img.shields.io/badge/▶-86A4B6?style=for-the-badge&labelColor=86A4B6"
+        alt="Play"
+        height="36"
+       />
+     </a>
     </td>
   </tr>
 </table>
