@@ -10,7 +10,20 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=86A4B6&height=1&section=header&width=100%" width="100%" alt="" />
 </p>
 
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">
+        <img src="https://coverartarchive.org/release/470a26c5-8684-44c9-bf9d-8eb48285009a/40538090738-500.jpg" width="64" alt="Cover"/>
+      </a>
+    </td>
+    <td>
+      **LET THE WORLD BURN**<br/>
+      Chris Grey<br/>
+      <sub>00:44 · </sub>
+      <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">▶ Play</a>
+    </td>
+  </tr>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Views-6.595k-86a4b6?style=flat-square" alt="Views: 6.595k" />
