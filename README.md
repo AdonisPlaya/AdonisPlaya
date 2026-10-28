@@ -16,7 +16,7 @@
 
 <h3 align="left">Add Me:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/tolgaaesendere" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
