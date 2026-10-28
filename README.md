@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tolga Esendere</h1>
-<h3 align="center">A part-time developer in Türkiye who does "vibe coding" whenever they get bored.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=86A4B6&center=true&vCenter=true&width=600&lines=Python+Developer;Vibe+Coder;Game+Developer;Web+Developer;Building+things+for+fun" alt="Animated typing introduction" />
+</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Views-6.595k-86a4b6?style=flat-square" alt="Views: 6.595k" />
