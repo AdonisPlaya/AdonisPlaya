@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
   <a href="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/></a>
