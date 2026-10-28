@@ -14,32 +14,15 @@
   <img src="https://img.shields.io/badge/Views-6.595k-86a4b6?style=flat-square" alt="Views: 6.595k" />
 </p>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=86A4B6&height=1&section=header&width=100%" width="100%" alt="" />
-</p>
-
-<h3 align="left">CONNECT WITH ME</h3>
+<h3 align="left">Add Me:</h3>
 
 <p align="left">
-  <a href="https://guns.lol/tolgaesendere">
-    <img src="https://img.shields.io/badge/GUNS.LOL-86A4B6?style=flat-square&logo=linktree&logoColor=white" alt="Guns.lol" />
+  <a href="https://instagram.com/tolgaaesendere" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/tolgaaesendere">
-    <img src="https://img.shields.io/badge/INSTAGRAM-86A4B6?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://discordapp.com/users/1246057026908328013" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://discordapp.com/users/1246057026908328013">
-    <img src="https://img.shields.io/badge/DISCORD-86A4B6?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-<p align="left">
-  <sub>PERSONAL LINKS · ADONISPLAYA</sub>
-</p>
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=86A4B6&height=1&section=header&width=100%" width="100%" alt="" />
 </p>
 
 
