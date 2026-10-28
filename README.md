@@ -51,7 +51,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://coverartarchive.org/release/470a26c5-8684-44c9-bf9d-8eb48285009a/40538090738-500.jpg" width="64" alt="Cover"/>
+      <img
+        src="https://coverartarchive.org/release/470a26c5-8684-44c9-bf9d-8eb48285009a/40538090738-500.jpg"
+        width="64"
+        alt="LET THE WORLD BURN Cover"
+      />
     </td>
     <td>
       <strong>LET THE WORLD BURN</strong><br/>
@@ -62,7 +66,11 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://www.youtube.com/watch?v=SkcO47UDzzY&t=44s">
-        <img src="https://img.shields.io/badge/▶-86A4B6?style=for-the-badge&logoColor=white" alt="Play"/>
+        <img
+          src="https://img.shields.io/badge/%E2%96%B6-86A4B6?style=for-the-badge&logoColor=white"
+          alt="Play song"
+          height="36"
+        />
       </a>
     </td>
   </tr>
