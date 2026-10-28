@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=42&duration=999999&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Tolga+Esendere" alt="Tolga Esendere" />
-</h1>
+<h1 align="center">𝘛𝘰𝘭𝘨𝘢 𝘌𝘴𝘦𝘯𝘥𝘦𝘳𝘦</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=86A4B6&center=true&vCenter=true&width=600&lines=Vibe+Coding;Web+Developer;Game+Developer" alt="Vibe Coding - Web Developer - Game Developer" />
