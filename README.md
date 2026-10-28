@@ -1,7 +1,7 @@
 <h1 align="center">
-  𝘛𝘰𝘭𝘨𝘢 𝘌𝘴𝘦𝘯𝘥𝘦𝘳𝘦
-  <img src="https://img.shields.io/badge/-✔-3897F0?style=flat-square&labelColor=3897F0" height="18" alt="Verified" />
+  𝘛𝘰𝘭𝘨𝘢 𝘌𝘴𝘦𝘯𝘥𝘦𝘳𝘦 <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2611.svg" width="18" alt="Verified" />
 </h1>
+
 
 
 
