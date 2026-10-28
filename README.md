@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=86A4B6&center=true&vCenter=true&width=600&lines=Vibe+Coding;Web+Developer;Game+Developer" alt="Vibe Coding - Web Developer - Game Developer" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=86A4B6&height=1&section=header&width=100%" width="100%" alt="" />
+</p>
 
 
 
